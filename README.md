@@ -9,9 +9,7 @@ Precomputed rainbowtables distributed by OpenMPI.
 
 Hash Functions:
 
-void HashLM(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
-void HashMD5(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
-void HashSHA1(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
+NTLM,MD5,SHA1
 
 Some charset:
 
