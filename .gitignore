@@ -1,0 +1,15 @@
+.gradle
+.DS_Store
+.classpath
+.project
+.settings
+*.class
+*.swp
+*.bak
+*.iml
+*.zip
+bin
+build
+target
+.idea
+*.log
