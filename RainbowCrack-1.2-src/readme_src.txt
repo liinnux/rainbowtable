@@ -7,7 +7,3 @@ build the source in windows:
 
 build the source in linux:
 	make -f makefile.linux
-
-Zhu Shuanglei <shuanglei@hotmail.com>
-http://www.antsight.com/zsl/rainbowcrack/
-2003/11/21

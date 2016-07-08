@@ -43,7 +43,3 @@ Changes in version 1.01
 
 Changes in version 1.0
 - Initial release
-
-Zhu Shuanglei <shuanglei@hotmail.com>
-http://www.antsight.com/zsl/rainbowcrack/
-2003/11/21

@@ -1,0 +1,1 @@
+This code is to generate RainbowTable which mpi was need.
