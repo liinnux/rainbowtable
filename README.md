@@ -14,8 +14,6 @@ void HashMD5(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 void HashSHA1(unsigned char* pPlain, int nPlainLen, unsigned char* pHash);
 
 Some charset:
-# charset configuration file for RainbowTableGenerate 1.2 and later
-# by liinux <liinux@126.com>
 
 alpha                  = [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
 alpha-numeric          = [ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]
@@ -30,12 +28,14 @@ loweralpha-numeric     = [abcdefghijklmnopqrstuvwxyz0123456789]
 
 This tool is to attack NTLM,MD5,SHA1 by rainbowtables;
 
+
+# Change log #
+
 - 2017.07.09
 
 最初始的版本，后续再完善...
 
 
-
-- QQ Group :`欢迎加入开源Java爬虫QQ群:322937592`
-
+# 社区讨论 #
+- QQ Group :`欢迎加入开源Web爬虫QQ群:322937592`
 - 个人主页 : http://www.cnblogs.com/liinux/
