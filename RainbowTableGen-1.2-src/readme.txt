@@ -1,1 +1,1 @@
-This code is to generate RainbowTable which mpi was need.
+This code is to generate RainbowTable which openmpi is need.
